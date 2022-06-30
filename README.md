@@ -1,6 +1,6 @@
 # ShopKart
 
-**Check out the live instance [over here](http://shopkart.ml:2525/)**
+**Check out the live instance [over here](https://shopkart-2525.herokuapp.com/)**
 
 ## An fully functional e-commerce website based on Django framework
 
