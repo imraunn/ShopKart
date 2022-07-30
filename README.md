@@ -2,7 +2,7 @@
 
 **Check out the live instance [over here](https://shopkart-2525.herokuapp.com/)**
 
-## An fully functional e-commerce website based on Django framework
+## A fully functional e-commerce website based on Django framework
 
 
 ## Features:
